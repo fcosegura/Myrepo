@@ -1,0 +1,1564 @@
+PORTÁTILES DISPONIBLES EN CEX ESPAÑA (es.webuy.com)
+Rango de precio: 600€ - 1600€
+Filtro: disponibles para compra online
+Fecha de extracción: 26/08/2026 16:39
+Total de productos: 173
+Fuente: Algolia (catálogo CeX) vía search.webuy.io
+================================================================================
+
+1. Acer AN515-46/RYZ 7 6800H/16GB RAM/512GB SSD/RTX 3050/15"/W11/A
+   Precio: 600,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORACEAN5154611A
+   URL: https://es.webuy.com/product-detail?id=SPORACEAN5154611A
+   Tiendas con stock: Málaga Rosaleda
+
+2. Asus 15 F1504V/Core 7 150U/16GB RAM/1TB SSD/15"/W11/A
+   Precio: 600,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SLAPASU15F1504V67A
+   URL: https://es.webuy.com/product-detail?id=SLAPASU15F1504V67A
+   Tiendas con stock: Getafe Madrid
+
+3. Asus 15 X1504/Core 7 150U/16GB RAM/1TB SSD/15"/W11/A
+   Precio: 600,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORASU15X150487A
+   URL: https://es.webuy.com/product-detail?id=SPORASU15X150487A
+   Tiendas con stock: Sevilla Imagen
+
+4. Asus ROG Strix G15 G513RC/Ryzen 7 6800HS/16GB Ram/512GB SSD/3050/15"/W11/A
+   Precio: 600,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORASUG513RC46A
+   URL: https://es.webuy.com/product-detail?id=SPORASUG513RC46A
+   Tiendas con stock: Barcelona Gran de Gràcia
+
+5. Dell 7560/Xeon W-11855M/64GB Ram/512GB SSD/T1200/15"/W11/B
+   Precio: 600,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORDEL756027B
+   URL: https://es.webuy.com/product-detail?id=SPORDEL756027B
+   Tiendas con stock: Barcelona Sants
+
+6. HP 15-FD2007/Ultra 5 225U/32GB Ram/512GB SSD/15"/W11/B
+   Precio: 600,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORHP15FD200792B
+   URL: https://es.webuy.com/product-detail?id=SPORHP15FD200792B
+   Tiendas con stock: A Coruña Marineda City
+
+7. HP EliteBook 6 G1i/Ultra 5 225U/16GB Ram/512GB SSD/14"/W11/B
+   Precio: 600,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 4
+   ID: SPORHPELI6G1I93B
+   URL: https://es.webuy.com/product-detail?id=SPORHPELI6G1I93B
+   Tiendas con stock: Almería Torrecárdenas, Barcelona La Maquinista, Palma Joan March
+
+8. Lenovo 16 G8 IAL/Ultra 5 225U/16GB Ram/512GB SSD/16"/W11/B
+   Precio: 600,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 2
+   ID: SPORLEN16G8IAL53B
+   URL: https://es.webuy.com/product-detail?id=SPORLEN16G8IAL53B
+   Tiendas con stock: Bilbao Areilza, Madrid La Vaguada
+
+9. Lenovo Legion 5 15ACH6H/Ryzen 7 5800H/16GB RAM/512 SSD/RTX 3060/15"/W11/B
+   Precio: 600,00€
+   Categoría: Portatiles - Windows
+   Estado: ['B']
+   Stock online: 2
+   ID: SPORLEN1515ACH6H69B
+   URL: https://es.webuy.com/product-detail?id=SPORLEN1515ACH6H69B
+   Tiendas con stock: Ciudad Real Ramón y Cajal, Córdoba Cruz Conde
+
+10. MacBook Pro 16,1/i7-9750H/16GB/512GB SSD/5300M 4GB/16"/Plata/A
+   Precio: 600,00€
+   Categoría: Portatiles - Apple
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORAPPMP16101PA
+   URL: https://es.webuy.com/product-detail?id=SPORAPPMP16101PA
+   Tiendas con stock: Girona Espai
+
+11. Microsoft Surface Laptop 6/Ultra 5 135H/8GB Ram/256GB SSD/13"/W11/Plat/A
+   Precio: 600,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORMICSURLAP6PL44A
+   URL: https://es.webuy.com/product-detail?id=SPORMICSURLAP6PL44A
+   Tiendas con stock: Bilbao Ballonti
+
+12. Microsoft Surface Laptop 7/SD X1P-64/16GB Ram/512GB SSD/13"/W11/Negro/B
+   Precio: 600,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORMICSURLAP772B
+   URL: https://es.webuy.com/product-detail?id=SPORMICSURLAP772B
+   Tiendas con stock: Madrid Hortaleza
+
+13. MSI 15 A13VE/i5-13420H/16GB Ram/512GB SSD/RTX 4050/15" 144Hz/W11/A
+   Precio: 600,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORMSI15A13VE99A
+   URL: https://es.webuy.com/product-detail?id=SPORMSI15A13VE99A
+   Tiendas con stock: León Espacio
+
+14. Samsung Book5/Ultra 5 225U/16GB Ram/512GB SSD/15"/W11/A
+   Precio: 600,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORSAMNP750XHDKD55A
+   URL: https://es.webuy.com/product-detail?id=SPORSAMNP750XHDKD55A
+   Tiendas con stock: Albacete Concepción
+
+15. Samsung Galaxy Book2 Pro SE/Ultra 7 155H/16GB Ram/512GB SSD/Arc/15"/W11/C
+   Precio: 600,00€
+   Categoría: Portatiles - Windows
+   Estado: Aceptable
+   Stock online: 1
+   ID: SPORSAMNP950XGK01C
+   URL: https://es.webuy.com/product-detail?id=SPORSAMNP950XGK01C
+   Tiendas con stock: Barcelona Gran de Gràcia
+
+16. MacBook Air 14,2/M2 (8-CPU 8-GPU)/8GB Ram/256GB SSD/13"/Plata/C
+   Precio: 610,00€
+   Categoría: Portatiles - Apple
+   Estado: ['C']
+   Stock online: 2
+   ID: SMBA142888256PC
+   URL: https://es.webuy.com/product-detail?id=SMBA142888256PC
+   Tiendas con stock: Barcelona La Maquinista, Málaga Rosaleda
+
+17. MSI Cyborg 15 A13VE/i7-13620H/16GB Ram/512GB SSD/RTX 4050/15"/W11/B
+   Precio: 620,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORMSIC15A13VE98B
+   URL: https://es.webuy.com/product-detail?id=SPORMSIC15A13VE98B
+   Tiendas con stock: Valencia Benimaclet
+
+18. Asus F1607QA/X1-26-100/16GB Ram/512GB SSD/16"/W11/B
+   Precio: 625,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORASUF1607QA16B
+   URL: https://es.webuy.com/product-detail?id=SPORASUF1607QA16B
+   Tiendas con stock: Barcelona Passeig Sant Joan
+
+19. Lenovo L16 Gen 2/Ryzen 7 250/32GB RAM/512GB SSD/16"/W11/B
+   Precio: 625,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORLENL16G211B
+   URL: https://es.webuy.com/product-detail?id=SPORLENL16G211B
+   Tiendas con stock: Bilbao de la Cruz
+
+20. MacBook Air 14,2/M2 (8-CPU 8-GPU)/8GB Ram/256GB SSD/13"/BlancoEstrella/C
+   Precio: 630,00€
+   Categoría: Portatiles - Apple
+   Estado: ['C']
+   Stock online: 2
+   ID: SMBA142888256BEC
+   URL: https://es.webuy.com/product-detail?id=SMBA142888256BEC
+   Tiendas con stock: Palma FAN Mallorca Shopping, Sevilla Imagen
+
+21. MacBook Air 14,2/M2 (8-CPU 8-GPU)/8GB Ram/256GB SSD/13"/GE/C
+   Precio: 630,00€
+   Categoría: Portatiles - Apple
+   Estado: ['C']
+   Stock online: 1
+   ID: SMBA142888256GEC
+   URL: https://es.webuy.com/product-detail?id=SMBA142888256GEC
+   Tiendas con stock: Madrid Bravo Murillo
+
+22. MacBook Pro 15,4/i5-8257U/16GB Ram/256GB SSD/TB/13"/Gris/B
+   Precio: 630,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 1
+   ID: SPORAPPMBP154333B
+   URL: https://es.webuy.com/product-detail?id=SPORAPPMBP154333B
+   Tiendas con stock: Barcelona Sant Antoni
+
+23. MacBook Neo 17,5/A18 Pro/8GB Ram/256GB SSD/13"/Indigo/C
+   Precio: 640,00€
+   Categoría: Portatiles - Apple
+   Estado: ['C']
+   Stock online: 1
+   ID: SMBN175256GINC
+   URL: https://es.webuy.com/product-detail?id=SMBN175256GINC
+   Tiendas con stock: Palma Joan March
+
+24. MacBook Neo 17,5/A18 Pro/8GB Ram/256GB SSD/13"/Rosa Nube/C
+   Precio: 640,00€
+   Categoría: Portatiles - Apple
+   Estado: ['C']
+   Stock online: 1
+   ID: SMBN175256GRNC
+   URL: https://es.webuy.com/product-detail?id=SMBN175256GRNC
+   Tiendas con stock: Logroño Gran Vía
+
+25. Microsoft Surface Laptop 7/SD X1E-80/16GB Ram/512GB SSD/15"/W11/Negro/B
+   Precio: 640,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SMICSL7SDXE16512N27B
+   URL: https://es.webuy.com/product-detail?id=SMICSL7SDXE16512N27B
+   Tiendas con stock: San Sebastián - Plaza Cataluña
+
+26. Acer ANV15-51/i5-13420H/16GB Ram/1TB SSD/RTX 4050/15"/W11/B
+   Precio: 650,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORACEANV15511B
+   URL: https://es.webuy.com/product-detail?id=SPORACEANV15511B
+   Tiendas con stock: Ciudad Real Ramón y Cajal
+
+27. Acer ANV15-51/i5-13420H/32GB Ram/2TB SSD/3050 6GB/15"/W11/B
+   Precio: 650,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORACEANV1551303B
+   URL: https://es.webuy.com/product-detail?id=SPORACEANV1551303B
+   Tiendas con stock: Alcorcón TresAguas
+
+28. Acer Nitro 16 AN16-51/i7-13700H/16GB Ram/1TB SSD/RTX 4050/16"/W11/B
+   Precio: 650,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORACEAN165178B
+   URL: https://es.webuy.com/product-detail?id=SPORACEAN165178B
+   Tiendas con stock: Logroño Gran Vía
+
+29. Acer PH315-53/i7-10750H/16GB RAM/1TB SSD/RTX 3060/15"/W11/B
+   Precio: 650,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORACEPH3155388B
+   URL: https://es.webuy.com/product-detail?id=SPORACEPH3155388B
+   Tiendas con stock: A Coruña Marineda City
+
+30. Asus S5406/Ultra 7 256V/16GB RAM/512GB SSD/14"/W11/B
+   Precio: 650,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORASUS5406303B
+   URL: https://es.webuy.com/product-detail?id=SPORASUS5406303B
+   Tiendas con stock: Madrid Hortaleza
+
+31. Dell DA14250/Ultra 7 255H/16GB Ram/512GB SSD/14"/W11/B
+   Precio: 650,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 2
+   ID: SPORDELDA14250956B
+   URL: https://es.webuy.com/product-detail?id=SPORDELDA14250956B
+   Tiendas con stock: Ciudad Real Ramón y Cajal
+
+32. Dell Pro 14 Premium PA14250/Ultra 5 238v/32GB Ram/512GB SSD/14"/W11/B
+   Precio: 650,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 14
+   ID: SPORDELP14PA1425081B
+   URL: https://es.webuy.com/product-detail?id=SPORDELP14PA1425081B
+   Tiendas con stock: Ciudad Real Ramón y Cajal, León Ordoño, Madrid Alcalá, Madrid Bravo Murillo, Madrid La Laguna (+9 tiendas más)
+
+33. HP EliteBook 8 G1i 14/Ultra 5 228v/32GB RAM/512GB SSD/130v/W11/B
+   Precio: 650,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 2
+   ID: SPORHPEB8G1I1477B
+   URL: https://es.webuy.com/product-detail?id=SPORHPEB8G1I1477B
+   Tiendas con stock: Alcalá Magna, Madrid La Vaguada
+
+34. Lenovo 5 15ACH6/Ryzen 7 5800H/16GB Ram/1TB SSD/RTX 3060/15"/W11/B
+   Precio: 650,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORLEN515ACH690B
+   URL: https://es.webuy.com/product-detail?id=SPORLEN515ACH690B
+   Tiendas con stock: Barcelona Sant Antoni
+
+35. Lenovo E16 G3/Ryz 5 230/16GB RAM/512GB SSD/760M/16"/W11/A
+   Precio: 650,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 3
+   ID: SPORLENE16G369A
+   URL: https://es.webuy.com/product-detail?id=SPORLENE16G369A
+   Tiendas con stock: Alcalá Magna, León Ordoño, Logroño Gran Vía
+
+36. MacBook Air 14,15/M2 (8-CPU 10-GPU)/8GB Ram/256GB SSD/15"/GE/B
+   Precio: 650,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 1
+   ID: SMBA14158108256GEB
+   URL: https://es.webuy.com/product-detail?id=SMBA14158108256GEB
+   Tiendas con stock: Bilbao Ballonti
+
+37. Microsoft Surface Laptop 7/SD X1P-64/16GB Ram/512GB SSD/13"/W11/Platino/A
+   Precio: 650,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 2
+   ID: SPORMICSURLAP724A
+   URL: https://es.webuy.com/product-detail?id=SPORMICSURLAP724A
+   Tiendas con stock: Vitoria Independencia
+
+38. Samsung Galaxy Book 5/Ultra 7 255u/16GB RAM/512GB SSD/15"/W11/B
+   Precio: 650,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORSAMNP750XHD69B
+   URL: https://es.webuy.com/product-detail?id=SPORSAMNP750XHD69B
+   Tiendas con stock: Salamanca Mirat
+
+39. HP 8 G1A/Ryz AI 5 340/32GB Ram/500GB SSD/840M/14"/W11/B
+   Precio: 670,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORHP8G1A90B
+   URL: https://es.webuy.com/product-detail?id=SPORHP8G1A90B
+   Tiendas con stock: Barcelona Sant Antoni
+
+40. MacBook Neo 17,5/A18 Pro/8GB Ram/256GB SSD/13"/Critrico/B
+   Precio: 670,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 2
+   ID: SMBN175256GCIB
+   URL: https://es.webuy.com/product-detail?id=SMBN175256GCIB
+   Tiendas con stock: Madrid Hortaleza, Madrid La Vaguada
+
+41. MacBook Neo 17,5/A18 Pro/8GB Ram/256GB SSD/13"/Indigo/B
+   Precio: 670,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 4
+   ID: SMBN175256GINB
+   URL: https://es.webuy.com/product-detail?id=SMBN175256GINB
+   Tiendas con stock: Murcia Primo de Rivera, Móstoles Plaza Pradillo, Barcelona Sant Antoni, Barcelona La Maquinista
+
+42. MacBook Neo 17,5/A18 Pro/8GB Ram/256GB SSD/13"/Plata/B
+   Precio: 670,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 2
+   ID: SMBN175256GPLB
+   URL: https://es.webuy.com/product-detail?id=SMBN175256GPLB
+   Tiendas con stock: Madrid La Vaguada, Málaga de la Mota
+
+43. MacBook Pro 14,7/M2 (8-CPU 10-GPU)/8GB Ram/256GB SSD/13"/GE/B
+   Precio: 670,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 1
+   ID: SAPPMBP1478256GEB
+   URL: https://es.webuy.com/product-detail?id=SAPPMBP1478256GEB
+   Tiendas con stock: Hospitalet Just Oliveras
+
+44. MacBook Air 14,2/M2 (8-CPU 8-GPU)/8GB Ram/256GB SSD/13"/BlancoEstrella/B
+   Precio: 680,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 2
+   ID: SMBA142888256BEB
+   URL: https://es.webuy.com/product-detail?id=SMBA142888256BEB
+   Tiendas con stock: Móstoles Plaza Pradillo, Torrent Avinguda
+
+45. Asus G513/Ryz 7 5800H/16GB Ram/1TB SSD/RTX 3060/15"/W10/B
+   Precio: 685,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORASUG51362B
+   URL: https://es.webuy.com/product-detail?id=SPORASUG51362B
+   Tiendas con stock: Sevilla Imagen
+
+46. Lenovo T14 Gen 6/Ultra 5 225U/16GB Ram/512GB SSD/14"/W11/B
+   Precio: 685,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORLENT14G643B
+   URL: https://es.webuy.com/product-detail?id=SPORLENT14G643B
+   Tiendas con stock: León Ordoño
+
+47. Asus A14 UX3407QA/SD X1-26 100/32GB Ram/512GB SSD/14"/W11/B
+   Precio: 700,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORASUA14UX340781B
+   URL: https://es.webuy.com/product-detail?id=SPORASUA14UX340781B
+   Tiendas con stock: Valencia Fernando
+
+48. Asus G15 GA503/Ryzen 9 6900HS/16GB RAM/512GB SSD/RTX 3060/15"/W11/C
+   Precio: 700,00€
+   Categoría: Portatiles - Windows
+   Estado: Aceptable
+   Stock online: 1
+   ID: SPORASUG15GA50393C
+   URL: https://es.webuy.com/product-detail?id=SPORASUG15GA50393C
+   Tiendas con stock: Barcelona Sant Antoni
+
+49. Dell XPS 15-9570/i9-8950HK/32GB Ram/1TB SSD/GTX 1050Ti/15"/W11/C
+   Precio: 700,00€
+   Categoría: Portatiles - Windows
+   Estado: ['C']
+   Stock online: 1
+   ID: SPORDEL15957057C
+   URL: https://es.webuy.com/product-detail?id=SPORDEL15957057C
+   Tiendas con stock: Madrid Alcalá
+
+50. HP 15-FA2074/i5-14450HX/16GB Ram/512GB SSD/RTX 4050/15"/W11/A
+   Precio: 700,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORHP15FA2074A
+   URL: https://es.webuy.com/product-detail?id=SPORHP15FA2074A
+   Tiendas con stock: Barcelona La Maquinista
+
+51. HP 15-FA2092/i5-14500HX/16GB Ram/512GB SSD/RTX 3050/15"/W10/B
+   Precio: 700,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORHP15FA209273B
+   URL: https://es.webuy.com/product-detail?id=SPORHP15FA209273B
+   Tiendas con stock: Girona Espai
+
+52. HP EliteBook 6 G1i/Ultra 5 225U/16GB Ram/512GB SSD/14"/W11/A
+   Precio: 700,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 2
+   ID: SPORHPELI6G1I93A
+   URL: https://es.webuy.com/product-detail?id=SPORHPELI6G1I93A
+   Tiendas con stock: Alcorcón TresAguas
+
+53. HP ProBook 4 G1a/Ryzen 7 250/16GB RAM/512GB SSD/14" TS/W11/B
+   Precio: 700,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 3
+   ID: SPORHP4G1A29B
+   URL: https://es.webuy.com/product-detail?id=SPORHP4G1A29B
+   Tiendas con stock: Madrid Las Rosas, Málaga de la Mota
+
+54. MacBook Neo 17,5/A18 Pro/8GB Ram/256GB SSD/13"/Citrico/A
+   Precio: 700,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 7
+   ID: SMBN175256GCIA
+   URL: https://es.webuy.com/product-detail?id=SMBN175256GCIA
+   Tiendas con stock: Barcelona Passeig Sant Joan, Girona Espai, Hospitalet Just Oliveras, Madrid Atocha, Palma FAN Mallorca Shopping (+2 tiendas más)
+
+55. MacBook Neo 17,5/A18 Pro/8GB Ram/256GB SSD/13"/Indigo/A
+   Precio: 700,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 12
+   ID: SMBN175256GINA
+   URL: https://es.webuy.com/product-detail?id=SMBN175256GINA
+   Tiendas con stock: Getafe Madrid, Valladolid Teresa Gil, Valencia Ruzafa, Sevilla Nervión, Málaga de la Mota (+6 tiendas más)
+
+56. MacBook Neo 17,5/A18 Pro/8GB Ram/256GB SSD/13"/Plata/A
+   Precio: 700,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 13
+   ID: SMBN175256GPLA
+   URL: https://es.webuy.com/product-detail?id=SMBN175256GPLA
+   Tiendas con stock: A Coruña Juan Florez, Barcelona La Maquinista, Barcelona Sant Antoni, Córdoba Cruz Conde, Granada San Antón (+5 tiendas más)
+
+57. MacBook Neo 17,5/A18 Pro/8GB Ram/256GB SSD/13"/Rosa Nube/A
+   Precio: 700,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 7
+   ID: SMBN175256GRNA
+   URL: https://es.webuy.com/product-detail?id=SMBN175256GRNA
+   Tiendas con stock: Algeciras Puerta Europa, Barcelona Sants, Logroño Gran Vía, Madrid La Vaguada, Madrid Las Rosas (+2 tiendas más)
+
+58. HP 15-DG0004/i7-9750H/32GB Ram/1TB SSD/RTX 2070 MaxQ/15"/W11/A
+   Precio: 720,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORHP15DG000498A
+   URL: https://es.webuy.com/product-detail?id=SPORHP15DG000498A
+   Tiendas con stock: Bilbao de la Cruz
+
+59. MacBook Air 9,1/i7-1060NG7/16GB Ram/512GB SSD/13"/Oro/B
+   Precio: 720,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 1
+   ID: SPORAPPMBA91O66B
+   URL: https://es.webuy.com/product-detail?id=SPORAPPMBA91O66B
+   Tiendas con stock: Girona Espai
+
+60. MacBook Neo 17,5/A18 Pro/8GB Ram/512GB SSD/TouchID/13"/Indigo/C
+   Precio: 720,00€
+   Categoría: Portatiles - Apple
+   Estado: ['C']
+   Stock online: 1
+   ID: SMBN175512GINC
+   URL: https://es.webuy.com/product-detail?id=SMBN175512GINC
+   Tiendas con stock: Barcelona Gran de Gràcia
+
+61. MSI GP66 10UE/i7-10750H/32GB Ram/1TB SSD/RTX 3060/15" 144Hz/W10/B
+   Precio: 720,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORMSIGP6610UE00B
+   URL: https://es.webuy.com/product-detail?id=SPORMSIGP6610UE00B
+   Tiendas con stock: A Coruña Marineda City
+
+62. Acer ANV15-41/Ryz 7 7735HS/16GB Ram/1TB SSD/ RTX 4060 /15"/W11/B
+   Precio: 725,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORACEANV154181B
+   URL: https://es.webuy.com/product-detail?id=SPORACEANV154181B
+   Tiendas con stock: Albacete Concepción
+
+63. Acer PH315-54/i7-11800H/16GB RAM/1TB SSD/RTX 3070/15" 144Hz/W11/B
+   Precio: 725,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORACEPH3155497B
+   URL: https://es.webuy.com/product-detail?id=SPORACEPH3155497B
+   Tiendas con stock: Zaragoza Carmen
+
+64. Lenovo  3 15lph11/Ultra 5 322/16GB Ram/512GB SSD/15"/W11/A
+   Precio: 725,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORLEN315IPH1144A
+   URL: https://es.webuy.com/product-detail?id=SPORLEN315IPH1144A
+   Tiendas con stock: Santander San Fernando
+
+65. MacBook Air 14,2/M2 (8-CPU 8-GPU)/8GB Ram/256GB SSD/13"/GE/A
+   Precio: 730,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 2
+   ID: SMBA142888256GEA
+   URL: https://es.webuy.com/product-detail?id=SMBA142888256GEA
+   Tiendas con stock: Barcelona Sants, Madrid La Vaguada
+
+66. Asus A14 UX3407QA/SD X1-26 100/32GB Ram/1TB SSD/14"/W11/A
+   Precio: 750,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORASUA14UX340785A
+   URL: https://es.webuy.com/product-detail?id=SPORASUA14UX340785A
+   Tiendas con stock: Madrid Alcalá
+
+67. Dell Pro 14 Premium PA14250/Ultra 5 238v/32GB Ram/512GB SSD/14"/W11/A
+   Precio: 750,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 5
+   ID: SPORDELP14PA1425081A
+   URL: https://es.webuy.com/product-detail?id=SPORDELP14PA1425081A
+   Tiendas con stock: Barcelona La Maquinista, Elche Glorieta, Jerez Santa María, Madrid Atocha, Madrid Islazul
+
+68. HP 16-s0013/Ryzen 7 7840HS/16GB Ram/1TB SSD/RTX 4060 8GB/16"/W11/A
+   Precio: 750,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORHP16S001389A
+   URL: https://es.webuy.com/product-detail?id=SPORHP16S001389A
+   Tiendas con stock: Alcalá Magna
+
+69. Hp 8G1i 14 Ai/Ultra 5 238V/32GB RAM/500GB SSD/14"/W11/C
+   Precio: 750,00€
+   Categoría: Portatiles - Windows
+   Estado: Aceptable
+   Stock online: 1
+   ID: SPORHP8G1I14AI69C
+   URL: https://es.webuy.com/product-detail?id=SPORHP8G1I14AI69C
+   Tiendas con stock: A Coruña Marineda City
+
+70. Lenovo E14 Gen7/Ultra 5 255U/16GB Ram/512GB SSD/14"/W11/A
+   Precio: 750,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORLENE14GEN711A
+   URL: https://es.webuy.com/product-detail?id=SPORLENE14GEN711A
+   Tiendas con stock: Granada San Antón
+
+71. lenovo ThinkPad E16 Gen 4/Ultra 5 325/16GB Ram/512GB SSD/16"/W11/B
+   Precio: 750,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORLENTE16G4956B
+   URL: https://es.webuy.com/product-detail?id=SPORLENTE16G4956B
+   Tiendas con stock: Girona Espai
+
+72. MacBook Air 15,12/M3 (8-CPU 10-GPU)/8GB Ram/256GB SSD/13"/Plata/B
+   Precio: 750,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 2
+   ID: SMBA15128108256PB
+   URL: https://es.webuy.com/product-detail?id=SMBA15128108256PB
+   Tiendas con stock: Barcelona Sant Antoni, Murcia Primo de Rivera
+
+73. MacBook Air 15,12/M3 (8-CPU 8-GPU)/16GB Ram/256GB SSD/13"/Plata/B
+   Precio: 750,00€
+   Categoría: Portatiles - Apple
+   Estado: Bueno
+   Stock online: 1
+   ID: SMBA15128816256PLB
+   URL: https://es.webuy.com/product-detail?id=SMBA15128816256PLB
+   Tiendas con stock: Hospitalet Just Oliveras
+
+74. MacBook Neo 17,5/A18 Pro/8GB Ram/512GB SSD/TouchID/13"/Indigo/B
+   Precio: 750,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 3
+   ID: SMBN175512GINB
+   URL: https://es.webuy.com/product-detail?id=SMBN175512GINB
+   Tiendas con stock: Madrid Alcalá, Madrid Atocha, Torrent Avinguda
+
+75. MacBook Neo 17,5/A18 Pro/8GB Ram/512GB SSD/TouchID/13"/Plata/B
+   Precio: 750,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 1
+   ID: SMBN175512GPLB
+   URL: https://es.webuy.com/product-detail?id=SMBN175512GPLB
+   Tiendas con stock: Sevilla Asunción
+
+76. MacBook Neo 17,5/A18 Pro/8GB Ram/512GB SSD/TouchID/13"/Rosa Nube/B
+   Precio: 750,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 1
+   ID: SMBN175512GRNB
+   URL: https://es.webuy.com/product-detail?id=SMBN175512GRNB
+   Tiendas con stock: Madrid Alcalá
+
+77. MSI 15 B13VFK/i7-13620h/32GB Ram/1TB SSD/4060 8GB/15" 144Hz/W11/B
+   Precio: 750,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORMSI15B13VFK18B
+   URL: https://es.webuy.com/product-detail?id=SPORMSI15B13VFK18B
+   Tiendas con stock: A Coruña Marineda City
+
+78. MSI Pulse 16 AI C1VFKG/Ultra 9 185H/32GB Ram/1TB SSD/RTX 4060/16"/W11/B
+   Precio: 750,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORMSIP16AC1VFKG98B
+   URL: https://es.webuy.com/product-detail?id=SPORMSIP16AC1VFKG98B
+   Tiendas con stock: Logroño Gran Vía
+
+79. Samsung Galaxy Book5 Pro/Ultra 5 226V/16GB RAM/1TB SSD/16"/W11/B
+   Precio: 750,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORSAM960XHAKG193B
+   URL: https://es.webuy.com/product-detail?id=SPORSAM960XHAKG193B
+   Tiendas con stock: Torrent Avinguda
+
+80. Samsung Galaxy Book4 Pro/U5 125H/16GB RAM/512GB SSD/16"/W11/B
+   Precio: 755,00€
+   Categoría: Portatiles - Windows
+   Estado: ['B']
+   Stock online: 1
+   ID: SPORSAMNP960XGK72B
+   URL: https://es.webuy.com/product-detail?id=SPORSAMNP960XGK72B
+   Tiendas con stock: Palma FAN Mallorca Shopping
+
+81. Asus G14 GA402RJ/Ryzen 9 6900HS/16GB RAM/1tb SSD/RX 6700S/15"/W11/C
+   Precio: 760,00€
+   Categoría: Portatiles - Windows
+   Estado: Aceptable
+   Stock online: 1
+   ID: SPORASUG14GA402RJ83C
+   URL: https://es.webuy.com/product-detail?id=SPORASUG14GA402RJ83C
+   Tiendas con stock: Alicante Gran Vía
+
+82. MacBook Pro 14,7/M2 (8-CPU 10-GPU)/8GB Ram/512GB SSD/13"/GE/C
+   Precio: 760,00€
+   Categoría: Portatiles - Apple
+   Estado: ['C']
+   Stock online: 1
+   ID: SAPPMBP1478512GEC
+   URL: https://es.webuy.com/product-detail?id=SAPPMBP1478512GEC
+   Tiendas con stock: Barcelona Passeig Sant Joan
+
+83. MacBook Air 15,12/M3 (8-CPU 10-GPU)/8GB Ram/512GB SSD/13"/BlancoEstrella/B
+   Precio: 770,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 1
+   ID: SMBA15128108512BEB
+   URL: https://es.webuy.com/product-detail?id=SMBA15128108512BEB
+   Tiendas con stock: Málaga de la Mota
+
+84. MacBook Pro 16,2/i7-1068NG7/16GB Ram/1TB SSD/13"/GrisEspacial/B
+   Precio: 770,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 1
+   ID: SPORAPPMP162198GEB
+   URL: https://es.webuy.com/product-detail?id=SPORAPPMP162198GEB
+   Tiendas con stock: Madrid Alcalá
+
+85. MacBook Neo 17,5/A18 Pro/8GB Ram/512GB SSD/TouchID/13"/C?trico/A
+   Precio: 790,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 3
+   ID: SMBN175512GCIA
+   URL: https://es.webuy.com/product-detail?id=SMBN175512GCIA
+   Tiendas con stock: Palma Carrer d'Aragò, Barcelona Sants, Madrid La Vaguada
+
+86. MacBook Neo 17,5/A18 Pro/8GB Ram/512GB SSD/TouchID/13"/Indigo/A
+   Precio: 790,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 11
+   ID: SMBN175512GINA
+   URL: https://es.webuy.com/product-detail?id=SMBN175512GINA
+   Tiendas con stock: Barcelona Passeig Sant Joan, Valencia Ruzafa, Santander San Fernando, Palma FAN Mallorca Shopping, Palma Carrer d'Aragò (+5 tiendas más)
+
+87. MacBook Neo 17,5/A18 Pro/8GB Ram/512GB SSD/TouchID/13"/Plata/A
+   Precio: 790,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 9
+   ID: SMBN175512GPLA
+   URL: https://es.webuy.com/product-detail?id=SMBN175512GPLA
+   Tiendas con stock: Bilbao Ballonti, Girona Espai, Palma FAN Mallorca Shopping, San Sebastián - Plaza Cataluña, Sevilla Santa Justa (+2 tiendas más)
+
+88. MacBook Neo 17,5/A18 Pro/8GB Ram/512GB SSD/TouchID/13"/Rosa Nube/A
+   Precio: 790,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 1
+   ID: SMBN175512GRNA
+   URL: https://es.webuy.com/product-detail?id=SMBN175512GRNA
+   Tiendas con stock: Madrid Atocha
+
+89. Dell 5690/Ultra 7 165H/32GB Ram/512GB SSD/RTX 1000 6GB/16"/W11/B
+   Precio: 800,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORDEL569029B
+   URL: https://es.webuy.com/product-detail?id=SPORDEL569029B
+   Tiendas con stock: Bilbao de la Cruz
+
+90. HP 16-AM0010/Ultra 7 240H/32GB Ram/1TB SSD/RTX 5050/16"/W11/B
+   Precio: 800,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORHP16AM001010B
+   URL: https://es.webuy.com/product-detail?id=SPORHP16AM001010B
+   Tiendas con stock: Elche Glorieta
+
+91. HP 8 G1A/Ryzen AI 7 Pro 350/32GB RAM/512GB SSD/860M/14"/W11/C
+   Precio: 800,00€
+   Categoría: Portatiles - Windows
+   Estado: Aceptable
+   Stock online: 1
+   ID: SPORHP8G1A956C
+   URL: https://es.webuy.com/product-detail?id=SPORHP8G1A956C
+   Tiendas con stock: Barcelona Sant Antoni
+
+92. HP EliteBook 6 G2i/Ultra 5 325/16GB RAM/512GB SSD/14"/W11/B
+   Precio: 800,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORHPEB6G2I14B
+   URL: https://es.webuy.com/product-detail?id=SPORHPEB6G2I14B
+   Tiendas con stock: Barcelona Sant Antoni
+
+93. MacBook Pro 16,1/i9-9880H/64GB/2TB SSD/5500M 8GB/16"/GE/B
+   Precio: 800,00€
+   Categoría: Portatiles - Apple
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORAPPMP16149SGB
+   URL: https://es.webuy.com/product-detail?id=SPORAPPMP16149SGB
+   Tiendas con stock: Madrid Atocha
+
+94. MSI Vector GP77 13V/i7-13700H/32GB Ram/1TB SSD/RTX 4060/17"/W11/B
+   Precio: 800,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORMSIGP7713V11B
+   URL: https://es.webuy.com/product-detail?id=SPORMSIGP7713V11B
+   Tiendas con stock: Talavera Trinidad
+
+95. TECNO MEGABOOK K15S /i9 13900hk/32GB RAM/1TB SSD/15"/W11/B
+   Precio: 800,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORTECMKI5S98B
+   URL: https://es.webuy.com/product-detail?id=SPORTECMKI5S98B
+   Tiendas con stock: Vitoria Independencia
+
+96. MacBook Air 14,15/M2 (8-CPU 10-GPU)/8GB Ram/512GB SSD/15"/GrisEspacial/C
+   Precio: 810,00€
+   Categoría: Portatiles - Apple
+   Estado: ['C']
+   Stock online: 1
+   ID: SMBA14158108512GEC
+   URL: https://es.webuy.com/product-detail?id=SMBA14158108512GEC
+   Tiendas con stock: Torrent Avinguda
+
+97. MacBook Pro 14,7/M2 (8-CPU 10-GPU)/8GB Ram/512GB SSD/13"/GE/B
+   Precio: 810,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 3
+   ID: SAPPMBP1478512GEB
+   URL: https://es.webuy.com/product-detail?id=SAPPMBP1478512GEB
+   Tiendas con stock: Alicante Gran Vía, Barcelona Gran de Gràcia, Santander San Fernando
+
+98. MacBook Pro 14,7/M2 (8-CPU 10-GPU)/8GB Ram/512GB SSD/13"/Plata/B
+   Precio: 810,00€
+   Categoría: Portatiles - Apple
+   Estado: Bueno
+   Stock online: 1
+   ID: SAPPMBP1478512PB
+   URL: https://es.webuy.com/product-detail?id=SAPPMBP1478512PB
+   Tiendas con stock: Madrid Hortaleza
+
+99. MSI 17 B13VFK/i7-13700H/32GB Ram/1TB SSD/RTX 4060/17"/W11/B
+   Precio: 820,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORMSI17B13VFK098B
+   URL: https://es.webuy.com/product-detail?id=SPORMSI17B13VFK098B
+   Tiendas con stock: Zaragoza Carmen
+
+100. MacBook Pro 15,3/M3 (8-CPU 10-GPU)/8GB Ram/512GB SSD/14"/Plata/B
+   Precio: 840,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 1
+   ID: SMBP153P8108512SB
+   URL: https://es.webuy.com/product-detail?id=SMBP153P8108512SB
+   Tiendas con stock: Barcelona Gran de Gràcia
+
+101. Asus UX8406M/Ultra 9 185H/32GB RAM/1TB SSD/Arc/14" OLed/W11/A
+   Precio: 850,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORASUUX8406M77A
+   URL: https://es.webuy.com/product-detail?id=SPORASUUX8406M77A
+   Tiendas con stock: Barcelona Gran de Gràcia
+
+102. HP 15-FB3020/Ryz 7 AI 350/16GB Ram/1TB SSD/5050/15"144Hz/W11/B
+   Precio: 850,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORHP15FB302045B
+   URL: https://es.webuy.com/product-detail?id=SPORHP15FB302045B
+   Tiendas con stock: Valencia Benimaclet
+
+103. Lenovo 14ILL10/Ultra 7 258V/32GB Ram/1TB SSD/Arc 140V/14" 2.8K/W11/A
+   Precio: 850,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORLEN14ILL1089A
+   URL: https://es.webuy.com/product-detail?id=SPORLEN14ILL1089A
+   Tiendas con stock: Barcelona La Maquinista
+
+104. Lenovo 5 15AHP10/Ryz 7 260/32GB Ram/1TB SSD/5060 8GB/15" 165Hz/W11/A
+   Precio: 850,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORLEN515AHP10956A
+   URL: https://es.webuy.com/product-detail?id=SPORLEN515AHP10956A
+   Tiendas con stock: Madrid Hortaleza
+
+105. MacBook Air 14,15/M2 (8-CPU 10-GPU)/8GB Ram/512GB SSD/15"/Medianoche/B
+   Precio: 850,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 1
+   ID: SMBA14158108512MB
+   URL: https://es.webuy.com/product-detail?id=SMBA14158108512MB
+   Tiendas con stock: Jerez Santa María
+
+106. MacBook Air 16,12/M4 (10-CPU 8-GPU)/16GB/256GB SSD/13"/Medianoche/A
+   Precio: 850,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 1
+   ID: SMBA161210816G256GMA
+   URL: https://es.webuy.com/product-detail?id=SMBA161210816G256GMA
+   Tiendas con stock: Barcelona Sant Antoni
+
+107. Medion Erazer Deputy 15 P1/i7-13620H/16GB Ram/1TB SSD/5060 8GB/15"/W11/B
+   Precio: 850,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORMEDED15P147B
+   URL: https://es.webuy.com/product-detail?id=SPORMEDED15P147B
+   Tiendas con stock: Madrid Atocha
+
+108. Microsoft Surface Laptop 7/Ultra 7 266v/16GB Ram/256GB SSD/13"/W11/B
+   Precio: 850,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORMICSURLA748B
+   URL: https://es.webuy.com/product-detail?id=SPORMICSURLA748B
+   Tiendas con stock: Alcorcón TresAguas
+
+109. MSI Cyborg 15 A13V/i7-13620H/32GB Ram/1TB SSD/RTX 4060/15"144Hz/W11/A
+   Precio: 850,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORMSIC15A13V17A
+   URL: https://es.webuy.com/product-detail?id=SPORMSIC15A13V17A
+   Tiendas con stock: Móstoles Plaza Pradillo
+
+110. MSI GE76 11UH-235/i7-11800H/32GB RAM/1TB SSD/RTX3080 8G/17" 360Hz/W11/B
+   Precio: 850,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORMSIGE7611UH235B
+   URL: https://es.webuy.com/product-detail?id=SPORMSIGE7611UH235B
+   Tiendas con stock: Zaragoza Carmen
+
+111. MSI Z17 A12UGST/i9-12900H/32GB Ram/1TB SSD/3070 Ti/16"/W11/B
+   Precio: 850,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORMSIZ17A12UGST69B
+   URL: https://es.webuy.com/product-detail?id=SPORMSIZ17A12UGST69B
+   Tiendas con stock: Sevilla Imagen
+
+112. Samsung Galaxy Book5 Pro/Ultra 5 226V/16GB RAM/1TB SSD/14"/W11/A
+   Precio: 850,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 2
+   ID: SPORSAM960XHAKG111A
+   URL: https://es.webuy.com/product-detail?id=SPORSAM960XHAKG111A
+   Tiendas con stock: San Sebastián - Plaza Cataluña, Valencia Ruzafa
+
+113. Lenovo 14ILL10/Ultra 7 258V/32GB Ram/1TB SSD/Arc 140V/14" 2.8K/W11/B
+   Precio: 855,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 2
+   ID: SPORLEN14ILL1089B
+   URL: https://es.webuy.com/product-detail?id=SPORLEN14ILL1089B
+   Tiendas con stock: Girona Espai, Madrid La Vaguada
+
+114. HP 15-FB3872/Ryz AI 7 350/24GB Ram/512GB SSD/RTX 5060/15"/W11/C
+   Precio: 860,00€
+   Categoría: Portatiles - Windows
+   Estado: Aceptable
+   Stock online: 1
+   ID: SPORHP15FB387284C
+   URL: https://es.webuy.com/product-detail?id=SPORHP15FB387284C
+   Tiendas con stock: Barcelona Sant Antoni
+
+115. MacBook Pro 14,7/M2 (8-CPU 10-GPU)/8GB Ram/512GB SSD/13"/GE/A
+   Precio: 860,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 1
+   ID: SAPPMBP1478512GEA
+   URL: https://es.webuy.com/product-detail?id=SAPPMBP1478512GEA
+   Tiendas con stock: Huelva Berdigón
+
+116. Gigabyte G5 KF5/i5-13500H/24GB RAM/3TB SSD/RTX 4060/15"/W11/B
+   Precio: 870,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORGIGG5KF595B
+   URL: https://es.webuy.com/product-detail?id=SPORGIGG5KF595B
+   Tiendas con stock: Albacete Concepción
+
+117. Lenovo LOQ 15APH8/Ryz 7 7840HS/16GB Ram/512GB SSD/RTX 4050/15"/W11/A
+   Precio: 870,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORLENLOQ15APH802A
+   URL: https://es.webuy.com/product-detail?id=SPORLENLOQ15APH802A
+   Tiendas con stock: Bilbao Ballonti
+
+118. Microsoft Surface Laptop 7/Ultra 5 236v/16GB Ram/512GB SSD/13"/W11/A
+   Precio: 880,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORMICSURLAP761A
+   URL: https://es.webuy.com/product-detail?id=SPORMICSURLAP761A
+   Tiendas con stock: Madrid Hortaleza
+
+119. MSI A15 B7VF/Ryz 7 7735HS/32GB Ram/1TB SSD/RTX 4060/15"/W11/A
+   Precio: 880,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORMSIA15B7VF88A
+   URL: https://es.webuy.com/product-detail?id=SPORMSIA15B7VF88A
+   Tiendas con stock: Málaga Rosaleda
+
+120. Asus FA608U/RYZ 7 260/32GB Ram/1TB SSD/RTX 5060/16"165Hz/W11/B
+   Precio: 885,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORASUFA608U29B
+   URL: https://es.webuy.com/product-detail?id=SPORASUFA608U29B
+   Tiendas con stock: Móstoles Plaza Pradillo
+
+121. Dell XPS 15 9500/i7-10750H/32GB Ram/1TB SSD/GTX 1650 Ti/15"/W11/B
+   Precio: 900,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORDEL15950002B
+   URL: https://es.webuy.com/product-detail?id=SPORDEL15950002B
+   Tiendas con stock: Torrent Avinguda
+
+122. HP 14-FR0000/ultra 7 255H/32GB RAM/1TB SSD/14"/W11/A
+   Precio: 900,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORHP14FR000067A
+   URL: https://es.webuy.com/product-detail?id=SPORHP14FR000067A
+   Tiendas con stock: Móstoles Plaza Pradillo
+
+123. HP 15-FB3025/Ryz AI 7 350/16GB Ram/1TB SSD/RTX 5060/15"/W11/A
+   Precio: 900,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORHP15FB3025956A
+   URL: https://es.webuy.com/product-detail?id=SPORHP15FB3025956A
+   Tiendas con stock: Talavera Trinidad
+
+124. HP 16-AP0804/Ryz AI 7 350/16GB Ram/1TB SSD/RTX 5060/16"/W11/C
+   Precio: 900,00€
+   Categoría: Portatiles - Windows
+   Estado: Aceptable
+   Stock online: 1
+   ID: SPORHP16AP0804956C
+   URL: https://es.webuy.com/product-detail?id=SPORHP16AP0804956C
+   Tiendas con stock: Alicante Gran Vía
+
+125. HP 16-R1017/i7-14650HX/32GB RAM/1TB SSD/RTX 4060/16"/W11/B
+   Precio: 900,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORHP16R101701B
+   URL: https://es.webuy.com/product-detail?id=SPORHP16R101701B
+   Tiendas con stock: Murcia Primo de Rivera
+
+126. HP 8 G1A/Ryzen AI 7 Pro 350/32GB RAM/512GB SSD/860M/14"/W11/B
+   Precio: 900,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 8
+   ID: SPORHP8G1A956B
+   URL: https://es.webuy.com/product-detail?id=SPORHP8G1A956B
+   Tiendas con stock: Hospitalet Just Oliveras, Barcelona Sants
+
+127. HP EliteBook 8 G1i14/Ultra 7 258v/32GB Ram/1TB SSD/14"/W11/B
+   Precio: 900,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORHPEB8G1I1466B
+   URL: https://es.webuy.com/product-detail?id=SPORHPEB8G1I1466B
+   Tiendas con stock: Barcelona Sant Antoni
+
+128. HP EliteBook 8 G2a 14/Ryzen AI 5 Pro 440/32GB RAM/256GB SSD/14"/W11/B
+   Precio: 900,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORHPEB8G2A1400B
+   URL: https://es.webuy.com/product-detail?id=SPORHPEB8G2A1400B
+   Tiendas con stock: Málaga de la Mota
+
+129. Lenovo slim 9 14ILL10/Ultra 7 258V/32GB RAM/1TB SSD/14" 4K/W11/B
+   Precio: 900,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORLEN914ILL1084B
+   URL: https://es.webuy.com/product-detail?id=SPORLEN914ILL1084B
+   Tiendas con stock: Madrid La Vaguada
+
+130. Lenovo Yoga Slim 7 14AGP11/Ryz 7 445/32GB RAM/1TB SSD/840M/14"/W11/A
+   Precio: 900,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORLENYS714AGP1144A
+   URL: https://es.webuy.com/product-detail?id=SPORLENYS714AGP1144A
+   Tiendas con stock: Madrid Bravo Murillo
+
+131. MacBook Pro 18,1/M1 Pro (10-CPU 16-GPU)/16GB/512GB SSD/16"/Gris/B
+   Precio: 900,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 1
+   ID: SMBP181P101616512GEB
+   URL: https://es.webuy.com/product-detail?id=SMBP181P101616512GEB
+   Tiendas con stock: Barcelona Passeig Sant Joan
+
+132. MSI A17 AI B8V/Ryz 9 8945HS/32GB RAM/1TB SSD/RTX 4070/17"/W11/B
+   Precio: 900,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORMSIA17ALB8V29B
+   URL: https://es.webuy.com/product-detail?id=SPORMSIA17ALB8V29B
+   Tiendas con stock: Elche Glorieta
+
+133. Samsung Galaxy Book 6/Ultra 5 325/16GB RAM/512GB SSD/14"/W11/A
+   Precio: 900,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 4
+   ID: SPORSAMGB601A
+   URL: https://es.webuy.com/product-detail?id=SPORSAMGB601A
+   Tiendas con stock: Jerez Santa María, Madrid Atocha, Málaga de la Mota, Vilanova Macià
+
+134. Asus Rog G14-GA402R/Ryzen 9 6900HS/16GB RAM/1TB SSD/RX 6700s/14"/W11/B
+   Precio: 930,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORASURG14GA402R88B
+   URL: https://es.webuy.com/product-detail?id=SPORASURG14GA402R88B
+   Tiendas con stock: Barcelona Gran de Gràcia
+
+135. Acer ANV15-51/i9-13900H/32GB RAM/1TB SSD/RTX 4060/15"/W11/A
+   Precio: 950,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORACEANV1551011A
+   URL: https://es.webuy.com/product-detail?id=SPORACEANV1551011A
+   Tiendas con stock: Albacete Concepción
+
+136. HP 16-AM0003/Ultra 7 255H/32GB Ram/1TB SSD/RTX 5060/16"144Hz/W11/B
+   Precio: 950,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORHP16AM000327B
+   URL: https://es.webuy.com/product-detail?id=SPORHP16AM000327B
+   Tiendas con stock: Madrid La Laguna
+
+137. MSI Pulse 16 AI C1V/Ultra 7 155H/32GB Ram/1TB SSD/RTX 4070/16"/W11/B
+   Precio: 950,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORMSI16AIC1V81B
+   URL: https://es.webuy.com/product-detail?id=SPORMSI16AIC1V81B
+   Tiendas con stock: Madrid Hortaleza
+
+138. Asus UX3405/Ultra 9 285H/32GB RAM/1TB SSD/Arc/14" OLED/W11/A
+   Precio: 1.000,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 4
+   ID: SPORASUUX340514A
+   URL: https://es.webuy.com/product-detail?id=SPORASUUX340514A
+   Tiendas con stock: Barcelona Sant Antoni, Madrid Atocha, Málaga de la Mota
+
+139. HP 16-AP0001/Ryz AI 7 350/32GB Ram/1TB SSD/RTX 5050 8GB/16"/W11/A
+   Precio: 1.000,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORHP16AP000195A
+   URL: https://es.webuy.com/product-detail?id=SPORHP16AP000195A
+   Tiendas con stock: Sevilla Nervión
+
+140. HP 8 G1A/Ryzen AI 7 Pro 350/32GB RAM/512GB SSD/860M/14"/W11/A
+   Precio: 1.000,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 15
+   ID: SPORHP8G1A956A
+   URL: https://es.webuy.com/product-detail?id=SPORHP8G1A956A
+   Tiendas con stock: Madrid Usera, Valencia Ruzafa, Valencia Nuevo Centro, Valencia Fernando, Palma FAN Mallorca Shopping (+8 tiendas más)
+
+141. HP EliteBook 8 G1i14/Ultra 7 258v/32GB Ram/1TB SSD/14"/W11/A
+   Precio: 1.000,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 2
+   ID: SPORHPEB8G1I1466A
+   URL: https://es.webuy.com/product-detail?id=SPORHPEB8G1I1466A
+   Tiendas con stock: Murcia Primo de Rivera, Vilanova Macià
+
+142. Lenovo 5 15IRX10/i7-13650HX/32GB Ram/1TB SSD/5060/15"/W11/B
+   Precio: 1.000,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORLEN515IRX1089B
+   URL: https://es.webuy.com/product-detail?id=SPORLEN515IRX1089B
+   Tiendas con stock: Salamanca Mirat
+
+143. MSI A17 AI B8V/Ryz 9 8945HS/32GB RAM/1TB SSD/RTX 4070/17"/W11/A
+   Precio: 1.000,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORMSIA17ALB8V29A
+   URL: https://es.webuy.com/product-detail?id=SPORMSIA17ALB8V29A
+   Tiendas con stock: Zaragoza Carmen
+
+144. Acer ANV15-52/i9-13900H/32GB RAM/1TB SSD/RTX 5050/15"/W11/A
+   Precio: 1.050,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORACEANV1552808A
+   URL: https://es.webuy.com/product-detail?id=SPORACEANV1552808A
+   Tiendas con stock: Logroño Gran Vía
+
+145. Samsung Book5 Pro/Ultra 7 256V/16GB RAM/1TB SSD/Arc 140V/14" TS/W11/A
+   Precio: 1.050,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORSAMNP940XHA97A
+   URL: https://es.webuy.com/product-detail?id=SPORSAMNP940XHA97A
+   Tiendas con stock: Palma Joan March
+
+146. MacBook Air 17,3/M5(10-CPU 8-GPU) /16GB Ram/512GB SSD/13"/Medianoche/C
+   Precio: 1.080,00€
+   Categoría: Portatiles - Apple
+   Estado: ['C']
+   Stock online: 2
+   ID: SMBA17310816512GMC
+   URL: https://es.webuy.com/product-detail?id=SMBA17310816512GMC
+   Tiendas con stock: Barcelona Passeig Sant Joan, León Ordoño
+
+147. MacBook Air 15,12/M3 (8-CPU 10-GPU)/8GB Ram/1TB SSD/13"/Medianoche/A
+   Precio: 1.100,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 1
+   ID: SMBA151281081MA
+   URL: https://es.webuy.com/product-detail?id=SMBA151281081MA
+   Tiendas con stock: Málaga de la Mota
+
+148. MSI GE68 HX 14VFG/i9-14900HX/32GB RAM/1TB SSD/4060 8GB/16" /W11/B
+   Precio: 1.100,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORMSIGE68HX14VF33B
+   URL: https://es.webuy.com/product-detail?id=SPORMSIGE68HX14VF33B
+   Tiendas con stock: Albacete Concepción
+
+149. Samsung Galaxy Book 6/Ultra 7 355/16GB RAM/512GB SSD/14"/W11/B
+   Precio: 1.100,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 2
+   ID: SPORSAMNP740VJG44B
+   URL: https://es.webuy.com/product-detail?id=SPORSAMNP740VJG44B
+   Tiendas con stock: Almería Torrecárdenas, San Sebastián - Plaza Cataluña
+
+150. MacBook Air 17,3/M5(10-CPU 8-GPU) /16GB Ram/512GB SSD/13"/Azul Cielo/B
+   Precio: 1.130,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 1
+   ID: SMBA17310816512GACB
+   URL: https://es.webuy.com/product-detail?id=SMBA17310816512GACB
+   Tiendas con stock: Alcorcón TresAguas
+
+151. Asus HN7306/Ryzen AI 9 HX 370/32GB Ram/2TB SSD/RTX4070/13"TS OLED/W11/C
+   Precio: 1.150,00€
+   Categoría: Portatiles - Windows
+   Estado: Aceptable
+   Stock online: 1
+   ID: SPORASUHN730645C
+   URL: https://es.webuy.com/product-detail?id=SPORASUHN730645C
+   Tiendas con stock: Barcelona Passeig Sant Joan
+
+152. Lenovo T14 Gen 6/Ryz AI 7 Pro 350/64GB Ram/1TB SSD/860M/14"/W11/A
+   Precio: 1.150,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORLENT14G6956A
+   URL: https://es.webuy.com/product-detail?id=SPORLENT14G6956A
+   Tiendas con stock: Bilbao Ballonti
+
+153. MacBook Pro 15,6/M3 Pro (11-CPU 14-GPU)/18GB Ram/512GB SSD/14"/NE/B
+   Precio: 1.150,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 1
+   ID: SMBP156P111418512BB
+   URL: https://es.webuy.com/product-detail?id=SMBP156P111418512BB
+   Tiendas con stock: Barcelona Passeig Sant Joan
+
+154. MacBook Air 17,3/M5(10-CPU 8-GPU) /16GB Ram/512GB SSD/13"/Azul Cielo/A
+   Precio: 1.190,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 1
+   ID: SMBA17310816512GACA
+   URL: https://es.webuy.com/product-detail?id=SMBA17310816512GACA
+   Tiendas con stock: Bilbao Areilza
+
+155. MacBook Air 17,3/M5(10-CPU 8-GPU) /16GB Ram/512GB SSD/13"/Medianoche/A
+   Precio: 1.190,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 2
+   ID: SMBA17310816512GMA
+   URL: https://es.webuy.com/product-detail?id=SMBA17310816512GMA
+   Tiendas con stock: Lleida Blondel, Palma Carrer d'Aragò
+
+156. MacBook Air 17,3/M5(10-CPU 8-GPU) /16GB Ram/512GB SSD/13"/Plata/A
+   Precio: 1.190,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 1
+   ID: SMBA17310816512GPLA
+   URL: https://es.webuy.com/product-detail?id=SMBA17310816512GPLA
+   Tiendas con stock: Ciudad Real Ramón y Cajal
+
+157. HP Omen 16-AP0033/Ryz 9 8940HX/32GB Ram/1TB SSD/RTX 5060/16" 144 Hz/W11/A
+   Precio: 1.200,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SLAPHP16AP003345A
+   URL: https://es.webuy.com/product-detail?id=SLAPHP16AP003345A
+   Tiendas con stock: Bilbao Ballonti
+
+158. MSI Crosshair 16 HX AI /Ultra 9 275HX/32GB RAM/1TB SSD/RTX 5070/16"/W11/A
+   Precio: 1.200,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORMSICRO16HXA184A
+   URL: https://es.webuy.com/product-detail?id=SPORMSICRO16HXA184A
+   Tiendas con stock: Bilbao de la Cruz
+
+159. Acer Helios Neo 16s AI/Ultra9 275HX/32GB Ram/1TB SSD/RTX 5070 Ti/16"/W11/B
+   Precio: 1.250,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORACEHELN16SAI89B
+   URL: https://es.webuy.com/product-detail?id=SPORACEHELN16SAI89B
+   Tiendas con stock: Bilbao de la Cruz
+
+160. Asus A14 FA401/Ryzen AI Max+ 392/64GB RAM/1TB SSD/AMD 8060S/14"/W11/B
+   Precio: 1.250,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORASUA14FA40195B
+   URL: https://es.webuy.com/product-detail?id=SPORASUA14FA40195B
+   Tiendas con stock: Girona Espai
+
+161. Lenovo X1 Carbon G13/Ultra 7 268V/32GB Ram/1TB SSD/14"/W11/B
+   Precio: 1.250,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORLENX1CG1389B
+   URL: https://es.webuy.com/product-detail?id=SPORLENX1CG1389B
+   Tiendas con stock: Bilbao de la Cruz
+
+162. MacBook Air 17,3/M5(10-CPU 10-GPU)/16GB Ram/1TB SSD/13"/Medianoche/B
+   Precio: 1.290,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 1
+   ID: SMBA1731010161TMB
+   URL: https://es.webuy.com/product-detail?id=SMBA1731010161TMB
+   Tiendas con stock: Alcorcón TresAguas
+
+163. Gigabyte Aero X16 1WH/Ryz Al 7 350/32GB Ram/1TB SSD/RTX 5070/16"/W11/A
+   Precio: 1.300,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORGIGAX161WH00A
+   URL: https://es.webuy.com/product-detail?id=SPORGIGAX161WH00A
+   Tiendas con stock: Jerez Santa María
+
+164. Gigabyte A16 3WH/Ryzen 7 260/32GB Ram/1TB SSD/RTX 5070/16" 165Hz/W11/A
+   Precio: 1.350,00€
+   Categoría: Portatiles - Windows
+   Estado: En perfecto estado
+   Stock online: 1
+   ID: SPORGIGA163WH11A
+   URL: https://es.webuy.com/product-detail?id=SPORGIGA163WH11A
+   Tiendas con stock: Vitoria Independencia
+
+165. MacBook Air 17,3/M5(10-CPU 10-GPU)/16GB Ram/1TB SSD/13"/Azul Cielo/A
+   Precio: 1.350,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 2
+   ID: SMBA1731010161TACA
+   URL: https://es.webuy.com/product-detail?id=SMBA1731010161TACA
+   Tiendas con stock: Girona Espai, Vigo Camelias
+
+166. MacBook Air 17,3/M5(10-CPU 10-GPU)/16GB Ram/1TB SSD/13"/Medianoche/A
+   Precio: 1.350,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 1
+   ID: SMBA1731010161TMA
+   URL: https://es.webuy.com/product-detail?id=SMBA1731010161TMA
+   Tiendas con stock: Madrid Atocha
+
+167. Samsung Galaxy Book 6 Pro/Ultra 7 356H/16GB RAM/512GB SSD/16" 3K TS/W11/B
+   Precio: 1.350,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORSAMNP960XJG99B
+   URL: https://es.webuy.com/product-detail?id=SPORSAMNP960XJG99B
+   Tiendas con stock: Alicante Gran Vía
+
+168. MacBook Air 15,12/M3 (8-CPU 10-GPU)/24GB Ram/512GB SSD/13"/Medianoche/A
+   Precio: 1.400,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 1
+   ID: SMBA151281024512MA
+   URL: https://es.webuy.com/product-detail?id=SMBA151281024512MA
+   Tiendas con stock: Valladolid Teresa Gil
+
+169. MacBook Pro 14,9/M2 Pro (12-CPU 19-GPU)/16GB Ram/1TB SSD/14"/GE/B
+   Precio: 1.400,00€
+   Categoría: Portatiles - Apple
+   Estado: Bueno
+   Stock online: 1
+   ID: SMBP149P1219161GB
+   URL: https://es.webuy.com/product-detail?id=SMBP149P1219161GB
+   Tiendas con stock: Bilbao Ballonti
+
+170. MacBook Air 17,4/M5(10-CPU 10-GPU)/16GB Ram/512GB SSD/15"/Azul Cielo/A
+   Precio: 1.500,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 2
+   ID: SMBA174101016512GACA
+   URL: https://es.webuy.com/product-detail?id=SMBA174101016512GACA
+   Tiendas con stock: Getafe Madrid, Palma Carrer d'Aragò
+
+171. MacBook Air 17,4/M5(10-CPU 10-GPU)/16GB Ram/512GB SSD/15"/Plata/A
+   Precio: 1.500,00€
+   Categoría: Portatiles - Apple
+   Estado: ['A']
+   Stock online: 1
+   ID: SMBA174101016512GPLA
+   URL: https://es.webuy.com/product-detail?id=SMBA174101016512GPLA
+   Tiendas con stock: Barcelona La Maquinista
+
+172. MacBook Pro 16,1/M4 (10-CPU 10-GPU)/16GB Ram/1TB SSD/14"NTD/NE/B
+   Precio: 1.520,00€
+   Categoría: Portatiles - Apple
+   Estado: ['B']
+   Stock online: 1
+   ID: SMBP1611010161NNB
+   URL: https://es.webuy.com/product-detail?id=SMBP1611010161NNB
+   Tiendas con stock: Málaga Rosaleda
+
+173. Dell Pro Max 16 PC16250/Ultra 7 265HX/32GB RAM/1TB SSD/RTX 2000/16"/W11/B
+   Precio: 1.600,00€
+   Categoría: Portatiles - Windows
+   Estado: Bueno
+   Stock online: 1
+   ID: SPORDELPM16PC162505B
+   URL: https://es.webuy.com/product-detail?id=SPORDELPM16PC162505B
+   Tiendas con stock: Valencia Ruzafa
