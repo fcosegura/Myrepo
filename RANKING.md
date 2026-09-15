@@ -23,3 +23,9 @@ Ronda 2 (100): encontrar *We Must Pace the Frontier* + conclusión hecho ≠ tes
 El 3→67 **no** era pensamiento (ambos Amodei-rápido vs relojes). El pensamiento sobre el **mismo** prompt Amodei suma 8 puntos, casi todos en conclusión, no en ficha (sigue sin cuatro niveles ni chips/Bessent; además dice que hay solo dos niveles globales).
 
 La tabla global **no** sustituye el 67: A–E se comparan en la condición original. D-think es extra.
+
+## Extra (solo Amodei)
+
+| Modelo | Amodei | Vs A–E |
+|---|---|---|
+| Lumo Max | **83** | Entre C (78) y A/B (93/92). No corre wearables. |
