@@ -1,29 +1,26 @@
-# Cómo enviar respuestas para evaluar
+# Cómo enviar respuestas
 
-Para cada modelo, un archivo en `benchmark/respuestas/`:
+## Ronda 1 (wearables)
 
-```
-benchmark/respuestas/01-<nombre-modelo>.md
-```
+`benchmark/respuestas/` — ranking en `benchmark/ranking.md`.
+
+## Ronda 2 (Amodei)
+
+`benchmark/amodei-2026/respuestas/01-<nombre>.md`
 
 Plantilla:
 
 ```markdown
-# Modelo: <nombre exacto, p. ej. ChatGPT-5 Thinking>
-# Fecha: <cuándo se corrió>
-# Herramientas: sí/no (búsqueda, navegador)
-# Notas: temperatura, plan, etc.
+# Modelo: <nombre>
+# Fecha:
+# Herramientas: sí/no
+# Notas:
 
 ## Prompt usado
-(el de prompt.md, sin editar)
+(el de amodei-2026/prompt.md, sin editar)
 
 ## Respuesta
 <pegar salida completa>
 ```
 
-Reglas:
-
-1. Mismo prompt para todos. No corrijas el typo. No añadas “usa fuentes oficiales”.
-2. Si el modelo busca en la web, déjalo. Anótalo en el encabezado.
-3. No edites la respuesta. Si recorta, dilo.
-4. Cuando haya ≥2 respuestas, pide el ranking. El juez rellena `ranking.md`.
+Reglas: mismo texto para todos; no corrijas “informe”; no pidas fuentes oficiales. Si busca en la web, anótalo. El juez usa la rúbrica de esa ronda.

@@ -1,13 +1,21 @@
-# Benchmark de IAs — comparativa de wearables
+# Benchmark de IAs
 
-Kit para evaluar modelos con un prompt vago sobre productos recientes.
+Dos prompts vagos + recientes. El juez puntúa contra fichas/fuentes primarias, no contra otras IAs.
 
-- Prompt: [`benchmark/prompt.md`](benchmark/prompt.md)
-- Verdad de referencia: [`benchmark/ground-truth.md`](benchmark/ground-truth.md)
-- Rúbrica: [`benchmark/rubrica.md`](benchmark/rubrica.md)
-- Trampas típicas: [`benchmark/trampas.md`](benchmark/trampas.md)
-- Respuesta oro (juez, no concursante): [`benchmark/respuesta-oro.md`](benchmark/respuesta-oro.md)
-- Cómo enviar respuestas: [`benchmark/como-enviar.md`](benchmark/como-enviar.md)
-- Ranking: [`benchmark/ranking.md`](benchmark/ranking.md)
+## Ronda 1 — wearables
 
-Pega cada salida de IA en `benchmark/respuestas/` y pide la evaluación. El juez puntúa contra la rúbrica y la tabla de referencia, no contra otras IAs primero.
+Prompt: OPPO Watch X2 vs OnePlus Watch 4.
+
+- [Prompt](benchmark/prompt.md) · [Ground truth](benchmark/ground-truth.md) · [Rúbrica](benchmark/rubrica.md) · [Ranking A–E](benchmark/ranking.md)
+
+## Ronda 2 — Amodei, septiembre 2026
+
+Prompt: “informe de Dario Amodei lanzado en Septiembre de 2026”.
+
+- [Prompt](benchmark/amodei-2026/prompt.md)
+- [Ground truth](benchmark/amodei-2026/ground-truth.md)
+- [Rúbrica](benchmark/amodei-2026/rubrica.md)
+- [Trampas](benchmark/amodei-2026/trampas.md)
+- [Respuesta oro](benchmark/amodei-2026/respuesta-oro.md)
+- [Ranking](benchmark/amodei-2026/ranking.md)
+- Cómo enviar: [como-enviar.md](benchmark/como-enviar.md)
