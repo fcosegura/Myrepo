@@ -8,19 +8,18 @@ Misma letra en las dos rondas. No implica el mismo producto comercial; es la eti
 | 2 | **A** | 72 | 93 | **165** | **82,5** | Fuerte en Amodei; en relojes encontró el Watch 4 pero rompió batería/ECG |
 | 3 | **E** | 84 | 69 | **153** | **76,5** | Relojes bien; Amodei sin OAI-HF y conclusión demasiado “fáctica” |
 | 4 | **C** | 20 | 78 | **98** | **49,0** | Amodei usable; wearables = ficha de agregador |
-| 5 | **D** | 3 | 67 | **70** | **35,0** | En pensamiento el salto es enorme (3→67); la media la hunde el miss de recencia en relojes |
+| 5 | **D** | 3 | 67 | **70** | **35,0** | Amodei también fue modo rápido: el salto es el tipo de tarea, no el pensamiento |
 
 Ronda 1 (100): búsqueda de producto reciente + no copiar scrapers.  
 Ronda 2 (100): encontrar *We Must Pace the Frontier* + conclusión hecho ≠ tesis del CEO.
 
-## D y el modo pensamiento
+## D: modo rápido vs pensamiento
 
-La media (35) **no** describe a D en la segunda ronda. Nadie más sube 64 puntos entre prompts. Eso encaja con pensamiento + búsqueda: el ensayo de Amodei está indexado (BBC, Reuters, web personal); el Watch 4 no, y D lo declaró inexistente.
+El 67 de Amodei **también fue modo rápido**. La hipótesis “pensamiento explica 3→67” queda descartada.
 
-Qué implica, sin rescorear:
+Lo que sí explica el salto, con el mismo modo:
 
-- **D en pensamiento es usable** para un texto reciente con cobertura de prensa (67 = Regular alto: encontró fecha, tres pasos, unilateralidad, 1–2 años).
-- **No es el techo:** la conclusión sigue vendiendo la tesis del CEO como hecho, y la ficha del ensayo está incompleta (niveles globales, chips/Bessent).
-- **El 3 de relojes sigue siendo descalificante** si el modo por defecto no piensa / no relee resultados. Un SKU de 2026 mal indexado lo rompe; un op-ed de CEO no.
+- Ensayo de CEO indexado el mismo día (web personal + Reuters/BBC) vs SKU de reloj mal indexado / mezclado con Watch 3.
+- D-rápido **encuentra** un op-ed reciente; **no encuentra** (o niega) un wearable de 2026.
 
-Lectura operativa: D vale la pena **con pensamiento encendido** en tareas tipo “¿existe este documento de esta semana?”. No es el modelo para specs de hardware ambiguas sin ese modo. La tabla global penaliza el peor caso; el delta 3→67 es el dato útil sobre D.
+Pendiente: repetición de Amodei en modo pensamiento. Se puntúa aparte (`D-think`) con la misma rúbrica; no sustituye el 67 hasta ver el texto. Qué habría que ganar para subir de verdad: no elevar la tesis a hecho; cuatro niveles globales; chips/Bessent; 6–12 meses como proyección.
