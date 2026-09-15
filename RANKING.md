@@ -8,18 +8,18 @@ Misma letra en las dos rondas. No implica el mismo producto comercial; es la eti
 | 2 | **A** | 72 | 93 | **165** | **82,5** | Fuerte en Amodei; en relojes encontró el Watch 4 pero rompió batería/ECG |
 | 3 | **E** | 84 | 69 | **153** | **76,5** | Relojes bien; Amodei sin OAI-HF y conclusión demasiado “fáctica” |
 | 4 | **C** | 20 | 78 | **98** | **49,0** | Amodei usable; wearables = ficha de agregador |
-| 5 | **D** | 3 | 67 | **70** | **35,0** | Amodei también fue modo rápido: el salto es el tipo de tarea, no el pensamiento |
+| 5 | **D** | 3 | 67 | **70** | **35,0** | Amodei 67 = modo rápido (misma condición que el resto) |
 
 Ronda 1 (100): búsqueda de producto reciente + no copiar scrapers.  
 Ronda 2 (100): encontrar *We Must Pace the Frontier* + conclusión hecho ≠ tesis del CEO.
 
-## D: modo rápido vs pensamiento
+## Ablación D en Amodei
 
-El 67 de Amodei **también fue modo rápido**. La hipótesis “pensamiento explica 3→67” queda descartada.
+| Variante | Amodei | Nivel | Qué cambia |
+|---|---|---|---|
+| D-rápido | 67 | Regular | Encuentra el ensayo; conclusión da tesis por hecho |
+| D-think | **75** | Bueno | +8: limitaciones y 6–12 meses como estimación. Sigue < C (78) |
 
-Lo que sí explica el salto, con el mismo modo:
+El 3→67 **no** era pensamiento (ambos Amodei-rápido vs relojes). El pensamiento sobre el **mismo** prompt Amodei suma 8 puntos, casi todos en conclusión, no en ficha (sigue sin cuatro niveles ni chips/Bessent; además dice que hay solo dos niveles globales).
 
-- Ensayo de CEO indexado el mismo día (web personal + Reuters/BBC) vs SKU de reloj mal indexado / mezclado con Watch 3.
-- D-rápido **encuentra** un op-ed reciente; **no encuentra** (o niega) un wearable de 2026.
-
-Pendiente: repetición de Amodei en modo pensamiento. Se puntúa aparte (`D-think`) con la misma rúbrica; no sustituye el 67 hasta ver el texto. Qué habría que ganar para subir de verdad: no elevar la tesis a hecho; cuatro niveles globales; chips/Bessent; 6–12 meses como proyección.
+La tabla global **no** sustituye el 67: A–E se comparan en la condición original. D-think es extra.
