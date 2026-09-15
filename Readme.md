@@ -19,3 +19,5 @@ Prompt: “informe de Dario Amodei lanzado en Septiembre de 2026”.
 - [Respuesta oro](benchmark/amodei-2026/respuesta-oro.md)
 - [Ranking](benchmark/amodei-2026/ranking.md)
 - Cómo enviar: [como-enviar.md](benchmark/como-enviar.md)
+
+**Global A–E (suma de las dos):** [`RANKING.md`](RANKING.md) — B 183, A 165, E 153, C 98, D 70.
