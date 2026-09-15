@@ -1,7 +1,15 @@
-# Ranking — prompt 2 (Amodei sep 2026)
+# Ranking — prompt 2 (Amodei, sep 2026)
 
-Vacío hasta que lleguen respuestas en `benchmark/amodei-2026/respuestas/`.
+Cinco modelos. Empate: más B, luego A.
 
 | Puesto | Modelo | Total | A | B | C | D | E | Penaliz. | Nivel | Notas |
 |---|---|---|---|---|---|---|---|---|---|---|
-| — | — | — | — | — | — | — | — | — | — | Pendiente |
+| 1 | A | 93 | 28 | 28 | 14 | 9 | 14 | 0 | Excelente | Ensayo ≠ informe; hecho vs proyección |
+| 2 | B | 92 | 28 | 27 | 13 | 10 | 14 | 0 | Excelente | Misma tesis + METR/OpenAI/RSI verificados |
+| 3 | C | 78 | 26 | 22 | 11 | 7 | 12 | 0 | Bueno | Eje correcto, ficha delgada |
+| 4 | E | 69 | 24 | 19 | 10 | 7 | 9 | 0 | Regular | Sin OAI-HF; pilar 3 mezclado; IPO de más |
+| 5 | D | 67 | 25 | 21 | 8 | 6 | 7 | 0 | Regular | Encuentra el texto; conclusión da tesis por hecho |
+
+## Lectura
+
+A y B están en el techo: leyeron la primaria. B aporta más investigación externa (y acierta); A es más fiel al encargo “este documento” y al “basada en hechos”. C resume bien y se queda corto. E y D encuentran septiembre 2026 pero fallan el estándar de conclusión factual (tesis del CEO ≠ hecho del mundo).
